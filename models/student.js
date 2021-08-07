@@ -14,11 +14,9 @@ module.exports = (sequelize, DataTypes) => {
     }
   };
   Student.init({
-    id: DataTypes.INTEGER,
-    first_name: DataTypes.STRING,
-    last_name: DataTypes.STRING,
-    phone: DataTypes.STRING,
-    teacher_id: DataTypes.INTEGER
+    id: {type: DataTypes.INTEGER, primaryKey: true},
+    firstName: {type: DataTypes.STRING, allowNull: false},
+    lastName: {type: DataTypes.STRING, allowNull: false}
   }, {
     sequelize,
     modelName: 'Student',
