@@ -1,7 +1,8 @@
 'use strict';
-require('dotenv').config()
-const fs = require('fs');
+
 const path = require('path');
+require('dotenv').config({path: require('find-config')('.env') });
+const fs = require('fs');
 const Sequelize = require('sequelize');
 const basename = path.basename(__filename);
 const env = process.env.NODE_ENV || 'development';
