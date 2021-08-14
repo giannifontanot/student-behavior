@@ -14,7 +14,8 @@ router.get('/allStudents', async (req, res) => {
 
 router.get('/insertStudent', async (req, res) => {
     console.log("---> insertStudent :");
-    const studentInsert = await Student.create({id: 2, firstName: "yo", lastName: "merito"})
+
+    const studentInsert = await Student.create({id: Math.round(Math.random()*500), firstName: "yo", lastName: "merito"})
     console.log("---> studentInsert :" + studentInsert);
     res.status(200).json(studentInsert);
 })
