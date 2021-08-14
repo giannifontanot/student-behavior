@@ -20,6 +20,7 @@ Student.init({
     sequelize,
     timestamps: false,
     modelName: 'Student',
+    freezeTableName: true,
 });
 
 module.exports = Student;
