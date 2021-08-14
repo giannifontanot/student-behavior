@@ -12,7 +12,7 @@ app.use(router);
 
 sequelize.sync({force: false}).then(
     app.listen(PORT, () => {
-        //peasant.sow();
+        peasant.sow();
         console.log('Sever running on port: %j', PORT);
         console.log('http://localhost:%j/', PORT);
         console.log('http://localhost:%j/api/', PORT);
