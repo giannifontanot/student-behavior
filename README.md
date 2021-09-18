@@ -2,7 +2,7 @@
 ![Status Stable](https://img.shields.io/badge/Status-Stable-blue)
 [![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 # Behavior Management
-The behavior Management App is intended for use in a classroom. When a teacher is delivering a lesson and a student interrupts in the middle of it, sometimes it may be for a good reason, or maybe not. Maybe is just about bad behavior and that situation needs to be addressed. This app fills the gap between the bad behavior in the classroom and the records of actions taken to correct it. If a student is not behaving correctly, the teacher marks the type of behavior in the app, a description note, and the day that it happened. Later, the teacher or an administratior in the school can bring a report of incidents and update the actions taken to improve that student's behavior.  
+The behavior Management App is intended for use in a classroom. When a teacher is delivering a lesson and a student interrupts in the middle of it, sometimes it is for a good reason, but sometimes it is not. Most of the time is just about bad behavior and that situation needs to be addressed. This app fills the gap between the bad behavior in the classroom and the records of actions taken to correct it. If a student is not behaving correctly, the teacher marks the type of behavior in the app, a description note, and the day that it happened. Later, the teacher or an administratior in the school can bring a report of incidents and update the actions taken to improve that student's behavior.  
 
 ## Table of Contents
 - Behavior Management
@@ -20,7 +20,8 @@ The behavior Management App is intended for use in a classroom. When a teacher i
 
 ## Usage
 This app is mobile-ready and very easy to use, just follow the steps!
-``````- Login using your credentials
+``````
+- Login using your credentials
 - Select your classroom
 - Select a student you want to create a note
 - Write the note and press save.
