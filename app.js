@@ -20,4 +20,3 @@ sequelize.sync({force: false}).then(
         console.log('http://localhost:%j/api/insertStudent', PORT);
     })
 );
-
