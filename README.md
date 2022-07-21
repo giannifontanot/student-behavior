@@ -31,10 +31,10 @@ This app is mobile-ready and very easy to use, just follow the steps!
 
 ## Credits
 This project is team effort. The team members are:
+- Gianni Fontanot [https://github.com/giannifontanot](https://github.com/giannifontanot) 
 - Tommy Kang [https://github.com/tommy1krr](https://github.com/tommy1krr) 
 - Brian O'Connor [https://github.com/boconnorb20](https://github.com/boconnorb20) 
 - Robert Hare [https://github.com/Hare-Ball](https://github.com/Hare-Ball) 
-- Gianni Fontanot [https://github.com/giannifontanot](https://github.com/giannifontanot) 
 
 
 ## Useful Websites
@@ -61,13 +61,14 @@ If you would like to contribute to this project , you are very welcome! You can 
 In case you need them, here are some guidelines: [Contributor Covenant](https://www.contributor-covenant.org/)
 # 🔗 Links
 ### GitHub Repository
-[https://github.com/Hare-Ball/BehavioRepo/](https://github.com/Hare-Ball/BehavioRepo/)
+[https://github.com/giannifontanot/student-behavior](https://github.com/giannifontanot/student-behavior)
 ### Live Link
 [https://behavior-management-system.herokuapp.com/](https://behavior-management-system.herokuapp.com/)
 ### Support
-If you need help with this project, please write to: [Robert Hare](https://www.linkedin.com/in/robert-hare-b2b87441/)
+If you need help with this project, please write to: [Gianni Fontanot](https://www.linkedin.com/in/gianni-fontanot/)
 ### Authors
+ - [@giannifontanot](https://www.github.com/giannifontanot)
  - [@Tommy Kang](https://github.com/tommy1krr) 
  - [@Brian O'Connor](https://github.com/boconnorb20) 
  - [@Robert Hare](https://github.com/Hare-Ball) 
- - [@giannifontanot](https://www.github.com/giannifontanot)
+ 
